@@ -18,3 +18,4 @@ config db connection
 php artisan migrate
 php artisan db:seed
 all user password: qwerty# foundation
+# foundation
