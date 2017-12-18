@@ -20,7 +20,6 @@
   <div id="topbar-responsive" class="topbar-responsive-links">
     <div class="top-bar-right">
       <ul class="menu simple vertical medium-horizontal">
-        <li><a href="#">Главная</a></li>
         <li>
           <button type="button" class="button hollow topbar-responsive-button"><a href="https://goo.gl/forms/aWLRy3HIHkeLR58O2">Подать объявление</a></button>
         </li>
@@ -44,19 +43,19 @@
       <li class="is-active orbit-slide">
         <img class="orbit-image" src="https://izobrazhenie.net/photo/0-0/2759_275141962.jpg" alt="Space">
         <figcaption class="orbit-caption">
-          <h1>Продажа автомобилей <br>в Ульяновске </h1>
+          <h1>Авто на любой вкус <br>в Ульяновске </h1>
         </figcaption>
       </li>
       <li class="orbit-slide">
         <img class="orbit-image" src="http://www.hdcarwallpapers.com/download/2011_infiniti_m-1280x800.jpg" alt="Space">
         <figcaption class="orbit-caption">
-          <h1>Продажа автомобилей <br>в Ульяновске </h1>
+          <h1>Авто на любой вкус <br>в Ульяновске </h1>
         </figcaption>
       </li>
       <li class="orbit-slide">
         <img class="orbit-image" src="https://im0-tub-ru.yandex.net/i?id=37ec9638b543f910fd53b6c39cc23480&n=13" alt="Space">
         <figcaption class="orbit-caption">
-         <h1>Продажа автомобилей <br>в Ульяновске </h1>
+         <h1>Авто на любой вкус <br>в Ульяновске </h1>
         </figcaption>
       </li>
     </ul>
