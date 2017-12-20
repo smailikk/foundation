@@ -84,61 +84,6 @@
                         <div class="callout"> BMW 1 <br>
                     1 500 000 млн рублей </div>
                       </div>
-                        <div class="masonry-css-item">
-                          <img src="https://im0-tub-ru.yandex.net/i?id=5373582d236cdc3417ea190838fbff2e&n=13" class="" height="" width="" alt="">
-                        </div>
-                      <div class="masonry-css-item">
-                    <div class="callout"> INFINITI QX50  <br>
-                            2 215 000 рублей </div>
-                  </div>
-                <div class="masonry-css-item">
-                  <img src="http://www.mazda.ru/layout_static/color_block/model/m3/sedan/arctic.png" class="" height="" width="" alt="">
-                </div>
-                   <div class="masonry-css-item">
-                  <div class="callout">Mazda3 <br>
-                   1 642 000 рублей </div>
-                </div>
-              </div>
-              <div class="masonry-css">
-                <div class="masonry-css-item">
-                  <img src="http://topgir.com.ua/wp-content/uploads/2016/03/71521_Honda_Clarity_Fuel_Cell.jpg" class="" height="" width="" alt="">
-                </div>
-                      <div class="masonry-css-item">
-                        <div class="callout">Honda Clarity Fuel Cell <br>
-                        От 1 799 000 млн рублей</div>
-                      </div>
-                      <div class="masonry-css-item">
-                        <img src="https://www.volkswagen.ru/content/dam/vw-ngw/vw_pkw/importers/ru/models/tiguan-new/cutouts/Trendline_1920x726.png/jcr:content/renditions/original.transform/medplus/img.png" class="" height="" width="" alt="">
-                      </div>
-                  <div class="masonry-css-item">
-                  <div class="callout">Volkswagen Tiguan <br>
-               от 1 342 000 рублей </div>
-                </div>
-                <div class="masonry-css-item">
-                  <img src="https://im0-tub-ru.yandex.net/i?id=225c6a91bb22ca1c01e3c8e5ebc9b5a5&n=13" class="" height="" width="" alt="">
-                </div>
-            <div class="masonry-css-item">
-          <div class="callout"> Opel Insignia <br>
-            от 2 500 000 млн рублей </div>
-          </div>
-
-        <div class="masonry-css-item">
-          <img src="http://www.fordeumedia-a.ford.com/nas/gforcenaslive/rus/00b/yyb/images/resize618xrus00byybczbsbj(a)(a)hzn_1_0.png" class="" height="" width="" alt="">
-        </div>
-              <div class="masonry-css-item">
-            <div class="callout"> FORD EXPLORER  <br>
-         от 2 479 000 руб. </div>
-          </div>
-
-          <div class="masonry-css-item">
-            <img src="http://citroen-samavto.ru/upload/10503042373104231.png" class="" height="" width="" alt="">
-          </div>
-
-              <div class="masonry-css-item">
-            <div class="callout">КОМПЛЕКТАЦИИ НОВЫЙ C4 СЕДАН <br>
-             ОТ 999 000 РУБ. </div>
-          </div>
-      </div>
 
       <hr />
           <div id="engadget-footer-sitemap-container">
